@@ -19,7 +19,7 @@ Any recent version of macOS. Works on both Apple Silicon and Intel. It only uses
 
 ## Download
 
-[Download Remove-Quarantine-QuickAction.zip](Remove-Quarantine-QuickAction.zip)
+[Download Remove-Quarantine-QuickAction.zip](https://github.com/pacnpal/macos-workflows-scripts-shortcuts/raw/refs/heads/main/workflows/Remove-Quarantine/Remove-Quarantine-QuickAction.zip)
 
 ## Install
 
